@@ -3,7 +3,7 @@
 Welcome to the source code of my personal portfolio website! This project is designed to showcase my journey as a software developer, my technical skills, and the projects I have built. 
 
 ## 🌐 Live Preview
-**[Click here to view the live portfolio](https://HafizAbdulHannan.github.io/[Aapka-Repo-Name]/)**
+**[Click here to view the live portfolio](https://HafizAbdulHannan.github.io/Portfolio/)**
 
 ## ✨ Features
 * **Modern UI/UX:** A sleek dark theme built with Tailwind CSS (Zinc and Teal accents).
